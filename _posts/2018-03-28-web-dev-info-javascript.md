@@ -19,7 +19,7 @@ categories:
 
 &nbsp;
 
-<img src="http://13.124.96.114/wp-content/uploads/2018/03/JavaScript-logo.png" alt="" class="alignnone wp-image-79" width="294" height="294" srcset="http://www.diuven.ga/wp-content/uploads/2018/03/JavaScript-logo.png 1052w, http://www.diuven.ga/wp-content/uploads/2018/03/JavaScript-logo-150x150.png 150w, http://www.diuven.ga/wp-content/uploads/2018/03/JavaScript-logo-300x300.png 300w, http://www.diuven.ga/wp-content/uploads/2018/03/JavaScript-logo-768x768.png 768w, http://www.diuven.ga/wp-content/uploads/2018/03/JavaScript-logo-1024x1024.png 1024w, http://www.diuven.ga/wp-content/uploads/2018/03/JavaScript-logo-50x50.png 50w" sizes="(max-width: 294px) 100vw, 294px" />       <img src="http://13.124.96.114/wp-content/uploads/2018/03/javascript_logo_without_title.png" alt="" class="alignnone wp-image-80" width="245" height="278" srcset="http://www.diuven.ga/wp-content/uploads/2018/03/javascript_logo_without_title.png 344w, http://www.diuven.ga/wp-content/uploads/2018/03/javascript_logo_without_title-265x300.png 265w" sizes="(max-width: 245px) 100vw, 245px" />
+<img src="/images/2018/JavaScript-logo.png" alt="" class="alignnone wp-image-79" width="294" height="294" sizes="(max-width: 294px) 100vw, 294px" />       <img src="/images/2018/javascript_logo_without_title.png" alt="" class="alignnone wp-image-80" width="245" height="278" sizes="(max-width: 245px) 100vw, 245px" />
 
 * * *
 
