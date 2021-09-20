@@ -1,5 +1,5 @@
-<!-- ---
-layout: about
-title: About
+---
+layout: main
+title: Main
 permalink: /
---- -->
+---
