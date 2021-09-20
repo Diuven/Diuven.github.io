@@ -19,7 +19,7 @@ categories:
 
 &nbsp;
 
-<img src="/images/2018/JavaScript-logo.png" alt="" class="alignnone wp-image-79" width="294" height="294" sizes="(max-width: 294px) 100vw, 294px" />       <img src="/images/2018/javascript_logo_without_title.png" alt="" class="alignnone wp-image-80" width="245" height="278" sizes="(max-width: 245px) 100vw, 245px" />
+<img src="/assets/images/2018/JavaScript-logo.png" alt="" class="alignnone wp-image-79" width="294" height="294" sizes="(max-width: 294px) 100vw, 294px" />       <img src="/assets/images/2018/javascript_logo_without_title.png" alt="" class="alignnone wp-image-80" width="245" height="278" sizes="(max-width: 245px) 100vw, 245px" />
 
 * * *
 

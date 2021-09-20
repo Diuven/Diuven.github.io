@@ -5,7 +5,7 @@ date: "2018-03-28"
 
 ### [Node.js](https://nodejs.org)
 
-![](images/2000px-Node.js_logo.svg_.png)
+![](assets/images/2000px-Node.js_logo.svg_.png)
 
 Node.js® is a JavaScript runtime built on [Chrome's V8 JavaScript engine](https://developers.google.com/v8/). Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, [npm](https://www.npmjs.com/), is the largest ecosystem of open source libraries in the world.
 
