@@ -8,12 +8,26 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700&display=swap" rel="stylesheet">
+  <script type='text/javascript'>
+    var nameState = 0;
+    function changeName(){
+      nameState = 1 - nameState;
+      var name = document.getElementById("name");
+      name.textContent = nameState == 1 ? "노영훈" : "Younghun Roh";
+    }
+    var handleState = 0;
+    function changeHandle(){
+      handleState = 1 - handleState;
+      var handle = document.getElementById("handle");
+      handle.textContent = handleState == 1 ? "듀벤" : "Diuven";
+    }
+  </script>
 </head>
 
 <body>
   <div class="about-card">
-    <h1 class="about-name">Younghun Roh</h1>
-    <h2 class="about-handle"><a>Diuven</a></h2>
+    <h1 class="about-name"><a id="name" href="javascript:;" onclick="return changeName()">Younghun Roh</a></h1>
+    <h2 class="about-handle"><a id="handle" href="javascript:;" onclick="return changeHandle()">Diuven</a></h2>
     <div class="about-list">
       <div><a target="_blank" href="https://diuven.notion.site">About</a></div>
       <div><a target="_blank" href="/blog">Blog</a></div>

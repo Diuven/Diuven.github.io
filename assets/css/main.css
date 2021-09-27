@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'NanumSquareRound';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumSquareRound.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 body {
     margin: 0;
     display: flex;
@@ -14,7 +22,7 @@ div.about-card {
     align-items: center;
     justify-content: center;
     color: white;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito', 'NanumSquareRound', sans-serif;
 }
 
 h1.about-name {
@@ -22,6 +30,24 @@ h1.about-name {
     font-weight: 700;
     margin: 0;
     margin-bottom: 20px;
+}
+
+h1.about-name a {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+h1.about-name a:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+h1.about-name a:active {
+    background-color: black;
+    border: 2px solid rgba(255, 255, 255, 0.2);
 }
 
 h2.about-handle {
@@ -34,6 +60,8 @@ h2.about-handle {
 
 
 h2.about-handle a {
+    text-decoration: none;
+    color: white;
     padding: 5px;
     padding-left: 10px;
     padding-right: 10px;
@@ -42,6 +70,11 @@ h2.about-handle a {
 
 h2.about-handle a:hover {
     background-color: rgba(255, 255, 255, 0.1);
+}
+
+h2.about-handle a:active {
+    background-color: black;
+    border: 2px solid rgba(255, 255, 255, 0.2);
 }
 
 div.about-list{
