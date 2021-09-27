@@ -28,7 +28,20 @@ h2.about-handle {
     font-size: 48px;
     font-weight: 600;
     margin: 16px;
-    padding-bottom: 30px;
+    margin-bottom: 46px;
+    border-radius: 10px;
+}
+
+
+h2.about-handle a {
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+h2.about-handle a:hover {
+    background-color: rgba(255, 255, 255, 0.1);
 }
 
 div.about-list{
@@ -39,17 +52,28 @@ div.about-list{
 }
 
 div.about-list div {
+    display: flex;
     list-style-type: none;
     font-size: 30px;
     border: 2px solid;
     border-radius: 5px;
-    padding: 5px;
-    padding-left: 10px;
-    padding-right: 10px;
     margin: 10px;
 }
 
 div.about-list div a {
     text-decoration: none;
     color: white;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+div.about-list div:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 2px solid transparent;
+}
+
+div.about-list div:active {
+    background-color: black;
+    border: 2px solid rgba(255, 255, 255, 0.2);
 }
